@@ -1,3 +1,9 @@
+"""
+Módulo para el inferencia del modelo.
+
+Este módulo contiene funciones para cargar un modelo, realizar predicciones y guardarlas.
+"""
+
 # inference.py
 
 import logging

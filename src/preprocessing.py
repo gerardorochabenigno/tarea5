@@ -1,3 +1,9 @@
+"""
+Módulo para el preprocesamiento del modelo.
+
+Este módulo contiene funciones para cargar los datos, entrenar un modelo y guardarlo.
+"""
+
 # src/preprocessing.py
 import pandas as pd
 import os

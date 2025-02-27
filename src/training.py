@@ -1,3 +1,9 @@
+"""
+Módulo para el entrenamiento del modelo.
+
+Este módulo contiene funciones para entrenar un modelo y guardarlo.
+"""
+
 # training.py
 import joblib
 import os
